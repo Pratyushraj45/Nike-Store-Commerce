@@ -1,5 +1,5 @@
 import React from "react";
-import Clips from "./utils/CLips";
+import Clips from "./utils/Clips";
 import SocialLink from "./utils/SocialLink";
 
 const Hero = ({
